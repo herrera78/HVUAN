@@ -1,0 +1,61 @@
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Havir.Main.exe.config
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Havir.Main.exe
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Havir.Main.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Apache.NMS.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Apache.NMS.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Apache.NMS.xml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Apache.NMS.ActiveMQ.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Apache.NMS.ActiveMQ.xml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\obj\Debug\Havir.Main.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\obj\Debug\Havir.Main.exe
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\obj\Debug\Havir.Main.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Havir.Api.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Havir.Api.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Havir.Manager.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Havir.Sockets.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Havir.DataAccess.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Havir.WindowsRecognizer.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Havir.Manager.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Havir.Sockets.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Havir.DataAccess.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\Windows\Havir.Main\bin\Debug\Havir.WindowsRecognizer.pdb
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\bin\Debug\Havir.Main.exe.config
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\bin\Debug\Havir.Main.exe
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\bin\Debug\Havir.Main.pdb
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\bin\Debug\Havir.Manager.dll
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\bin\Debug\Havir.Api.dll
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\bin\Debug\Havir.DataAccess.dll
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\bin\Debug\Havir.Sockets.dll
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\bin\Debug\Havir.WindowsRecognizer.dll
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\bin\Debug\Havir.Manager.pdb
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\bin\Debug\Havir.Api.pdb
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\bin\Debug\Havir.DataAccess.pdb
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\bin\Debug\Havir.Sockets.pdb
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\bin\Debug\Havir.WindowsRecognizer.pdb
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\obj\Debug\Havir.Main.csprojResolveAssemblyReference.cache
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\obj\Debug\Havir.Main.exe
+C:\Users\herre\Documents\GitHub\HAVIR_Windows\HavirManager\obj\Debug\Havir.Main.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\bin\Debug\Havir.Main.exe.config
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\bin\Debug\Havir.Main.exe
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\bin\Debug\Havir.Main.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\bin\Debug\Havir.Manager.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\bin\Debug\Havir.Api.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\bin\Debug\Havir.DataAccess.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\bin\Debug\Havir.Sockets.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\bin\Debug\Havir.WindowsRecognizer.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\bin\Debug\Havir.Manager.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\bin\Debug\Havir.Api.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\bin\Debug\Havir.DataAccess.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\bin\Debug\Havir.Sockets.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\bin\Debug\Havir.WindowsRecognizer.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\VRAIN-master\Havir\Graph\BasicDialog.graphml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\VRAIN-master\Havir\Graph\dialogo ejemplo.graphml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\VRAIN-master\Havir\Havir.Main.exe.config
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\VRAIN-master\Havir\Havir.Main.exe
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\VRAIN-master\Havir\Havir.Main.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\obj\Debug\Havir.Main.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\obj\Debug\Havir.Main.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\obj\Debug\Havir.Main.exe
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\obj\Debug\Havir.Main.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\VRAIN-master\Havir\Graph\PredefinedAnswers.xml

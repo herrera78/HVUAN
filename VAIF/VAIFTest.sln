@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAIFTest", "VAIFTest.csproj", "{D8498FD1-EED9-4DBD-0469-FEAD2BCE20D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAIFTest.Editor", "VAIFTest.Editor.csproj", "{F721D946-B7AE-D2DD-B96B-87D93DA2F86A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8498FD1-EED9-4DBD-0469-FEAD2BCE20D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8498FD1-EED9-4DBD-0469-FEAD2BCE20D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8498FD1-EED9-4DBD-0469-FEAD2BCE20D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8498FD1-EED9-4DBD-0469-FEAD2BCE20D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F721D946-B7AE-D2DD-B96B-87D93DA2F86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F721D946-B7AE-D2DD-B96B-87D93DA2F86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F721D946-B7AE-D2DD-B96B-87D93DA2F86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F721D946-B7AE-D2DD-B96B-87D93DA2F86A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
