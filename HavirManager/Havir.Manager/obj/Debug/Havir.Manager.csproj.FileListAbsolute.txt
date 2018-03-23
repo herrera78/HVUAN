@@ -43,3 +43,21 @@ C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirMa
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.dll
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.pdb
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Manager\bin\Debug\Graph\PredefinedAnswers.xml
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Graph\BasicDialog.graphml
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Graph\PredefinedAnswers.xml
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Graph\dialogo ejemplo.graphml
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Manager.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Manager.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Api.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.DataAccess.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Sockets.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.WindowsRecognizer.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Api.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.DataAccess.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Sockets.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.WindowsRecognizer.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.pdb

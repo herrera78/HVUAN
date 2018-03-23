@@ -27,3 +27,17 @@ C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirMa
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.dll
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\BasicDialog.graphml
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\PredefinedAnswers.xml
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\dialogo ejemplo.graphml
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.DataAccess.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.DataAccess.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Api.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Sockets.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Api.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Sockets.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.pdb

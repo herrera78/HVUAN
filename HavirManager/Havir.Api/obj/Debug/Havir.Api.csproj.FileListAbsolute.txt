@@ -28,3 +28,12 @@ C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirMa
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Api\obj\Debug\Havir.Api.csproj.CoreCompileInputs.cache
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Api\obj\Debug\Havir.Api.dll
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HAVIR\HAVIR_Windows\HavirManager\Havir.Api\obj\Debug\Havir.Api.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Api.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Api.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Sockets.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Sockets.pdb
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.dll
+C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.pdb

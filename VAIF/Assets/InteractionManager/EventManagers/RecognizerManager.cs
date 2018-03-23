@@ -53,6 +53,9 @@ public class RecognizerManager : MonoBehaviour
         if (queue.Count == 0) return;
         var nextItem = queue.Dequeue();
         if (nextItem == null) return;
+        //no está recibiendo información en estos campos
+        UnityEngine.Debug.Log("Audio " + nextItem.Audio);
+        UnityEngine.Debug.Log("Animation " + nextItem.Animation);
         if (string.IsNullOrWhiteSpace(nextItem.Audio))
             _GenerateSpeech(nextItem.Description);
         else
@@ -102,7 +105,7 @@ public class RecognizerManager : MonoBehaviour
             client.OnRecivedMessage += OnRecivedMessageHandler;
             Task task = new Task(client.ReceiveDataFromServer);
             task.Start();
-            UnityEngine.Debug.Log("Client strated");
+            UnityEngine.Debug.Log("Client started");
         }
         catch (Exception ex)
         {

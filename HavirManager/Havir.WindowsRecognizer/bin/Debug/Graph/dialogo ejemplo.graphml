@@ -23,9 +23,9 @@
     <node id="n0">
       <data key="d3"><![CDATA[Inicio]]></data>
       <data key="d4"><![CDATA[decano]]></data>
-      <data key="d5"/>
-      <data key="d6"/>
-      <data key="d7"/>
+      <data key="d5"><![CDATA[aHola]]></data>
+      <data key="d6"><![CDATA[Hola]]></data>
+      <data key="d7"><![CDATA[Hola]]></data>
       <data key="d8"><![CDATA[HOLA bienvenido a la unversidad Antoio Nariño, yo soy el decano virtual te gustaría continuar?]]></data>
       <data key="d11">
         <y:ShapeNode>
