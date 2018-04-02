@@ -84,10 +84,15 @@ namespace Assets.HAVIR.Scripts.Game.Speech.Graph
                     targetId = node.Attribute("id").Value,
                     id = node.Attribute("id").Value;
 
-                bool wait = waitId != null && node
+                XElement waitElement = null;
+                if (waitId != null)
+                    waitElement = node
                     .Elements("{http://graphml.graphdrawing.org/xmlns}data")
-                    .FirstOrDefault(x => x.Attribute("key").Value.Equals(groupId.Attribute("id").Value))
-                    .Value.ToLower().Equals("true");
+                    .FirstOrDefault(x => x.Attribute("key").Value.Equals(waitId.Attribute("id").Value));
+
+                bool wait = waitElement == null
+                    ? false
+                    : waitElement.Value.ToLower().Equals("true");
 
                 var targetEdges = graphXml.Elements("{http://graphml.graphdrawing.org/xmlns}edge").Where(x => x.Attribute("target").Value == id);
                 var graphNode = new Question(targetId, id, keyword.Value, hv.Value, audio.Value, animation.Value, _getNodeType(name.Value), targetEdges.Any(), wait);

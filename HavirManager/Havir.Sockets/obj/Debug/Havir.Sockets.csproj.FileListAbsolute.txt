@@ -20,3 +20,9 @@ C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Sockets\bin\Debug\Newto
 C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.csprojResolveAssemblyReference.cache
 C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.dll
 C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Sockets\bin\Debug\Havir.Sockets.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Sockets\bin\Debug\Havir.Sockets.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Sockets\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.pdb

@@ -19,12 +19,14 @@
   <key attr.name="url" attr.type="string" for="edge" id="d15"/>
   <key attr.name="description" attr.type="string" for="edge" id="d16"/>
   <key for="edge" id="d17" yfiles.type="edgegraphics"/>
+  <key attr.name="WAIT" attr.type="string" for="edge" id="d18"/>
   <graph edgedefault="directed" id="G">
     <node id="n0">
       <data key="d3"><![CDATA[Inicio]]></data>
       <data key="d4"><![CDATA[decano]]></data>
       <data key="d5"><![CDATA[aHola]]></data>
       <data key="d6"><![CDATA[Hola]]></data>
+	  <data key="d18"><![CDATA[true]]></data>
       <data key="d7"/>
       <data key="d8"><![CDATA[HOLA bienvenido a la unversidad Antoio Nariño, yo soy el decano virtual te gustaría continuar?]]></data>
       <data key="d11">
@@ -48,6 +50,7 @@
       <data key="d4"><![CDATA[decano]]></data>
       <data key="d5"/>
       <data key="d6"/>
+	  <data key="d18"><![CDATA[true]]></data>
       <data key="d7"><![CDATA[sedes]]></data>
       <data key="d8"><![CDATA[quieres  conocer información acerca de nuestras sedes?]]></data>
       <data key="d11">

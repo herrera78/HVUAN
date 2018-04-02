@@ -49,3 +49,20 @@ C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\D
 C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.csprojResolveAssemblyReference.cache
 C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.dll
 C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Graph\BasicDialog.graphml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Graph\PredefinedAnswers.xml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Graph\dialogo ejemplo.graphml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.WindowsRecognizer.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.WindowsRecognizer.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.Api.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.DataAccess.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.Sockets.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.Api.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.DataAccess.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.Sockets.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.dll
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.pdb
