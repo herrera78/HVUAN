@@ -57,20 +57,21 @@ namespace Havir.Api.Speech
             if (kill == true)
                 _EmitKillMessage();
             _EmitActionMessage();
-            //if (Type != NodeType.Decision)
-            //{
-            //    var nextQuestion = _answers.Select(x => x.Target).FirstOrDefault();
-            //    if (nextQuestion != null)
-            //    {
-            //        return nextQuestion.Execute(keyword, false);
-            //    }
-            //}
-            //else
-            //{
-            IsRunning = true;
-            if (OnQuestionSelected != null)
-                OnQuestionSelected(this);
-            //}
+
+            if (Answers.Count == 1 && (Answers.First().Choices.Length == 0 || Answers.First().Choices[0].Trim() == string.Empty) )
+            {
+                var nextQuestion = _answers.Select(x => x.Target).FirstOrDefault();
+                if (nextQuestion != null)
+                {
+                    return nextQuestion.Execute(keyword, false);
+                }
+            }
+            else
+            {
+                IsRunning = true;
+                if (OnQuestionSelected != null)
+                    OnQuestionSelected(this);
+            }
             return this;
         }
 

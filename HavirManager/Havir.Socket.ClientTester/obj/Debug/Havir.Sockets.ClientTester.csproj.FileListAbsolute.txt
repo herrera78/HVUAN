@@ -35,14 +35,3 @@ C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Socket.ClientTester\bin
 C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Socket.ClientTester\obj\Debug\Havir.Sockets.ClientTester.csprojResolveAssemblyReference.cache
 C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Socket.ClientTester\obj\Debug\Havir.Socket.ClientTester.exe
 C:\Users\david\Documents\GitHub\HVUAN\HavirManager\Havir.Socket.ClientTester\obj\Debug\Havir.Socket.ClientTester.pdb
-C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Socket.ClientTester\bin\Debug\Havir.Socket.ClientTester.exe.config
-C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Socket.ClientTester\bin\Debug\Havir.Socket.ClientTester.exe
-C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Socket.ClientTester\bin\Debug\Havir.Socket.ClientTester.pdb
-C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Socket.ClientTester\bin\Debug\Havir.Sockets.dll
-C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Socket.ClientTester\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Socket.ClientTester\bin\Debug\Havir.Sockets.pdb
-C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Socket.ClientTester\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Socket.ClientTester\obj\Debug\Havir.Sockets.ClientTester.csprojResolveAssemblyReference.cache
-C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Socket.ClientTester\obj\Debug\Havir.Sockets.ClientTester.csproj.CoreCompileInputs.cache
-C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Socket.ClientTester\obj\Debug\Havir.Socket.ClientTester.exe
-C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Socket.ClientTester\obj\Debug\Havir.Socket.ClientTester.pdb

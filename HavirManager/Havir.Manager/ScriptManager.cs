@@ -137,12 +137,12 @@ namespace Havir.Manager
 
         private void _ExecuteStart(string keyword)
         {
-            for (int i = 0; i < _graph.Count; i++)
-            {
-                _graph[i].IsRunning = false;
-            }
-            var startNode = _graph.Where(x => x.Type == NodeType.Start).FirstOrDefault();
-            _currentQuestion = startNode.Execute(keyword);
+            //for (int i = 0; i < _graph.Count; i++)
+            //{
+            //    _graph[i].IsRunning = false;
+            //}
+            //var startNode = _graph.Where(x => x.Type == NodeType.Start).FirstOrDefault();
+            //_currentQuestion = startNode.Execute(keyword);
         }
 
         public void EmitQuestionMessage(UnityActionMessage message)

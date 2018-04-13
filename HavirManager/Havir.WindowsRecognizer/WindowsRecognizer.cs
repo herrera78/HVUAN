@@ -33,7 +33,7 @@ namespace Havir.WindowsRecognizer
         {
             _recognizer = new SpeechRecognitionEngine(new System.Globalization.CultureInfo("es-CO"));
             _recognizer.BabbleTimeout = TimeSpan.FromSeconds(30);
-            //_recognizer.LoadGrammar(new DictationGrammar());
+            _recognizer.LoadGrammar(new DictationGrammar());
             ///Register a handler for the SpeechRecognized event.
             ///
             _recognizer.SpeechRecognized +=
