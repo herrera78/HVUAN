@@ -84,3 +84,14 @@ C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Havi
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Graph\BasicDialog.graphml
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Graph\PredefinedAnswers.xml
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Graph\dialogo ejemplo.graphml
+D:\GITHUB\HVUAN\VAIF\Havir\Graph\BasicDialog.graphml
+D:\GITHUB\HVUAN\VAIF\Havir\Graph\PredefinedAnswers.xml
+D:\GITHUB\HVUAN\VAIF\Havir\Graph\dialogo ejemplo.graphml
+D:\GITHUB\HVUAN\VAIF\Havir\Havir.Main.exe.config
+D:\GITHUB\HVUAN\VAIF\Havir\Havir.Main.exe
+D:\GITHUB\HVUAN\VAIF\Havir\Havir.Main.pdb
+D:\GITHUB\HVUAN\HavirManager\obj\Debug\Havir.Main.csprojResolveAssemblyReference.cache
+D:\GITHUB\HVUAN\HavirManager\obj\Debug\Havir.Main.csproj.CoreCompileInputs.cache
+D:\GITHUB\HVUAN\HavirManager\obj\Debug\Havir.Main.csproj.CopyComplete
+D:\GITHUB\HVUAN\HavirManager\obj\Debug\Havir.Main.exe
+D:\GITHUB\HVUAN\HavirManager\obj\Debug\Havir.Main.pdb

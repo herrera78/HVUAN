@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAIF", "VAIF.csproj", "{80FB0000-6C22-38CD-A478-B44C253BB1E3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAIF.Editor", "VAIF.Editor.csproj", "{18C76409-CCBA-7E4C-F582-CBBCFCE6D0F4}"
