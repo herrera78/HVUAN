@@ -56,3 +56,19 @@ C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Ha
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.dll
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\BasicDialog.graphml
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\PredefinedAnswers.xml
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\dialogo ejemplo.graphml
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.DataAccess.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.DataAccess.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Api.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Sockets.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Api.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Havir.Sockets.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Newtonsoft.Json.xml
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csprojResolveAssemblyReference.cache
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csproj.CoreCompileInputs.cache
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csproj.CopyComplete
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.pdb
