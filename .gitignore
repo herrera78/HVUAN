@@ -1,4 +1,7 @@
+HavirManager\obj
 HavirManager\.vs
 VAIF/Library/metadata/
 *.ide-wal
 *.pdb
+*.pdb
+*.cache
