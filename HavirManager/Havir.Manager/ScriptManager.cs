@@ -37,6 +37,7 @@ namespace Havir.Manager
             using (var dataAccess = new QuestionDataAccess())
             {
                 _graph = dataAccess.GetAll();
+                //for(int i =0; i<_graph.Count; i++)
                 foreach (var node in _graph)
                 {
                     node.OnEmitMessage += EmitQuestionMessage;
@@ -47,18 +48,23 @@ namespace Havir.Manager
                             string.Format("#node|{0}", node.Id),
                             node.Keyphrase.Split(',')));
                     }
-                    foreach (var arista in node.Answers)
+                    var answers = node.Answers;
+                    foreach (var arista in answers)
                     {
-                        if (node.Type != NodeType.Decision || arista.Choices == null || arista.Choices.Any() == false)
+                        if (arista.Choices == null || arista.Choices.Any() == false || string.IsNullOrWhiteSpace(arista.Choices[0]))
                             continue;
+
                         if (arista.Choices.Length == 1 && arista.Choices[0].ToLower() == "*")
+                        {
                             arista.GrammarId = AddWildcardRecognition(
-                                string.Format("#node{0}|{1}", node.Id, arista.TargetId));
+                               string.Format("#node{0}|{1}", node.Id, arista.TargetId));
+                        }
                         else
                             arista.GrammarId = AddKeywordRecognition(
                                 string.Format("#node{0}|{1}", node.Id, arista.TargetId),
                                 arista.Choices.ToArray());
                     }
+                    node.Answers = answers;
                 }
             }
             ///Agrega frases claves para inicial el guión

@@ -74,13 +74,13 @@ C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VRAIN-master\Ha
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VRAIN-master\Havir\Havir.Main.exe.config
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VRAIN-master\Havir\Havir.Main.exe
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VRAIN-master\Havir\Havir.Main.pdb
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Graph\BasicDialog.graphml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Graph\PredefinedAnswers.xml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Graph\dialogo ejemplo.graphml
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Havir.Main.exe.config
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Havir.Main.exe
+C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Havir.Main.pdb
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\obj\Debug\Havir.Main.csprojResolveAssemblyReference.cache
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\obj\Debug\Havir.Main.csproj.CoreCompileInputs.cache
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\obj\Debug\Havir.Main.exe
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\obj\Debug\Havir.Main.pdb
-C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Havir.Main.exe.config
-C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Havir.Main.exe
-C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Havir.Main.pdb
-C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Graph\BasicDialog.graphml
-C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Graph\PredefinedAnswers.xml
-C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\VAIF\Havir\Graph\dialogo ejemplo.graphml

@@ -15,7 +15,6 @@ namespace Havir.Api.Speech
 
         public EmitMessage OnEmitMessage;
 
-        private List<Answer> _answers;
         private bool _isRoot;
         private string _id;
 
@@ -28,14 +27,13 @@ namespace Havir.Api.Speech
         public string Keyphrase { get; set; }
         public bool Wait { get; set; }
 
-        public NodeType Type { get; set; }
         public bool IsRoot { get { return _isRoot; } }
         public Action<string> GraphAction { get; set; }
-        public List<Answer> Answers { get { return _answers; } }
+        public List<Answer> Answers { get; set; }
         public bool IsRunning { get; set; }
 
         public Question(string targetId, string id, string keyphrase, string description, string audio,
-            string animation, NodeType nodeType, bool isRoot, bool wait)
+            string animation, bool isRoot, bool wait)
         {
             TargetId = targetId.Trim();
             _id = id.Trim();
@@ -48,8 +46,7 @@ namespace Havir.Api.Speech
                 Keyphrase = keyphrase.Trim();
             _isRoot = isRoot;
             Wait = wait;
-            _answers = new List<Answer>();
-            Type = nodeType;
+            Answers = new List<Answer>();
         }
 
         public Question Execute(string keyword, bool kill = true)
@@ -60,7 +57,7 @@ namespace Havir.Api.Speech
 
             if (Answers.Count == 1 && (Answers.First().Choices.Length == 0 || Answers.First().Choices[0].Trim() == string.Empty) )
             {
-                var nextQuestion = _answers.Select(x => x.Target).FirstOrDefault();
+                var nextQuestion = Answers.Select(x => x.Target).FirstOrDefault();
                 if (nextQuestion != null)
                 {
                     return nextQuestion.Execute(keyword, false);
@@ -98,7 +95,7 @@ namespace Havir.Api.Speech
         {
             //if (Type != NodeType.Decision && _answers.Any())
             //    throw new Exception("Los únicos nodos que permiten múltiples salidas, son los nodos de decisión.");
-            _answers.Add(arista);
+            Answers.Add(arista);
         }
 
         public void AddArista(List<Answer> aristas)
@@ -107,12 +104,12 @@ namespace Havir.Api.Speech
             //    throw new Exception("Los únicos nodos que permiten múltiples salidas, son los nodos de decisión.");
             //if (Type != NodeType.Decision && aristas.Count > 1)
             //    throw new Exception("Los únicos nodos que permiten múltiples salidas, son los nodos de decisión.");
-            _answers.AddRange(aristas);
+            Answers.AddRange(aristas);
         }
 
         public Answer FindArista(string option)
         {
-            return _answers.FirstOrDefault(x => x.Choices.Any(o => o.Equals(option)));
+            return Answers.FirstOrDefault(x => x.Choices.Any(o => o.Equals(option)));
         }
 
         public void EmitMessage(UnityActionMessage message)
@@ -128,14 +125,5 @@ namespace Havir.Api.Speech
         public Question Target { get; set; }
         public string[] Choices { get; set; }
         public Guid GrammarId { get; set; }
-    }
-
-    public enum NodeType
-    {
-        Start,
-        Terminator,
-        Data,
-        Decision
-
     }
 }

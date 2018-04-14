@@ -95,7 +95,7 @@ namespace Assets.HAVIR.Scripts.Game.Speech.Graph
                     : waitElement.Value.ToLower().Equals("true");
 
                 var targetEdges = graphXml.Elements("{http://graphml.graphdrawing.org/xmlns}edge").Where(x => x.Attribute("target").Value == id);
-                var graphNode = new Question(targetId, id, keyword.Value, hv.Value, audio.Value, animation.Value, _getNodeType(name.Value), targetEdges.Any(), wait);
+                var graphNode = new Question(targetId, id, keyword.Value, hv.Value, audio.Value, animation.Value, targetEdges.Any(), wait);
 
                 graph.Add(graphNode);
             }
@@ -141,22 +141,7 @@ namespace Assets.HAVIR.Scripts.Game.Speech.Graph
             }
             return graph;
         }
-
-        private static NodeType _getNodeType(string name)
-        {
-            if (name.ToLower() == "inicio")
-                return NodeType.Start;
-            else
-                return NodeType.Decision;
-
-            //if (type == "com.yworks.flowchart.decision")
-            //    return NodeType.Decision;
-            //else if (type == "com.yworks.flowchart.data")
-            //    return NodeType.Data;
-            //else if (type == "com.yworks.flowchart.start1" || type == "com.yworks.flowchart.start2")
-            //    return NodeType.Start;
-            //return NodeType.Terminator;
-        }
+        
 
     }
 }
