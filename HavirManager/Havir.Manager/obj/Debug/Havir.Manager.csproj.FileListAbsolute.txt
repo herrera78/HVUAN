@@ -17,3 +17,23 @@ C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Ha
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.csproj.CoreCompileInputs.cache
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.dll
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Graph\BasicDialog.graphml
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Graph\PredefinedAnswers.xml
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Graph\dialogo ejemplo.graphml
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Manager.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Manager.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Api.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.DataAccess.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Sockets.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.WindowsRecognizer.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Newtonsoft.Json.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Api.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.DataAccess.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Sockets.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.WindowsRecognizer.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Newtonsoft.Json.xml
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.csprojResolveAssemblyReference.cache
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.csproj.CoreCompileInputs.cache
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.csproj.CopyComplete
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.dll
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.pdb

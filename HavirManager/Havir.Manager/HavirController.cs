@@ -13,7 +13,7 @@ namespace Havir.Manager
 {
     public class HavirController
     {
-        private SpeechRegonizerManager _speechManager;
+        private SpeechRegonizerManager _speechManager; 
         private SocketServer<UnityActionMessage, ServerActionMessage> _server;
 
         public void Start()

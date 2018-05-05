@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Havir.Manager
-{
+{ 
     public class ScriptManager
     {
         public EmitMessage OnEmitMessage;

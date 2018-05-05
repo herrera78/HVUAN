@@ -64,7 +64,7 @@ namespace Havir.Api.Speech
                 }
             }
             else
-            {
+            { 
                 IsRunning = true;
                 if (OnQuestionSelected != null)
                     OnQuestionSelected(this);

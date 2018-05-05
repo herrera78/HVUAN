@@ -12,7 +12,7 @@ using System.Linq;
 namespace Havir.Manager
 {
     public class SpeechRegonizerManager : IDisposable
-    {
+    { 
         public EmitMessage OnEmitMessage; 
           
         private static IVoiceRecognizer _recognizer;

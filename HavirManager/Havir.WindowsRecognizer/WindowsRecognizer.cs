@@ -12,7 +12,7 @@ namespace Havir.WindowsRecognizer
 
     public class WindowsRecognizer : IVoiceRecognizer
     {
-        SpeechRecognitionEngine _recognizer;
+        SpeechRecognitionEngine _recognizer; 
 
         public event KeyWordRecognized OnKeywordRecognized;
         public event WilcardRecognized OnWilcardRecognized;
