@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace Havir.Api.Speech
 {
+    [Serializable]
     public class Question
     {
         public delegate void QuestionSelected(Question question);
@@ -23,12 +24,11 @@ namespace Havir.Api.Speech
         public string TargetId { get; set; }
         public string Description { get; set; }
         public string Audio { get; set; }
-        public string Animation { get; set; }
+        public List<Animation> Animations { get; set; }
         public string Keyphrase { get; set; }
         public bool Wait { get; set; }
 
         public bool IsRoot { get { return _isRoot; } }
-        public Action<string> GraphAction { get; set; }
         public List<Answer> Answers { get; set; }
         public bool IsRunning { get; set; }
 
@@ -40,8 +40,11 @@ namespace Havir.Api.Speech
             Description = description.Trim();
             if (audio != null)
                 Audio = audio.Trim();
-            if (audio != null)
-                Animation = animation.Trim();
+            Animations = new List<Animation>();
+            if (string.IsNullOrWhiteSpace(animation) == false)
+            {
+                Animations.Add(new Animation() { AnimationName = animation });
+            }
             if (keyphrase != null)
                 Keyphrase = keyphrase.Trim();
             _isRoot = isRoot;
@@ -55,7 +58,7 @@ namespace Havir.Api.Speech
                 _EmitKillMessage();
             _EmitActionMessage();
 
-            if (Answers.Count == 1 && (Answers.First().Choices.Length == 0 || Answers.First().Choices[0].Trim() == string.Empty) )
+            if (Answers.Count == 1 && (Answers.First().Choices.Length == 0 || Answers.First().Choices[0].Trim() == string.Empty))
             {
                 var nextQuestion = Answers.Select(x => x.Target).FirstOrDefault();
                 if (nextQuestion != null)
@@ -64,7 +67,7 @@ namespace Havir.Api.Speech
                 }
             }
             else
-            { 
+            {
                 IsRunning = true;
                 if (OnQuestionSelected != null)
                     OnQuestionSelected(this);
@@ -85,7 +88,7 @@ namespace Havir.Api.Speech
             var message = new UnityActionMessage();
             message.Description = Description;
             message.Audio = Audio;
-            message.Animation = Animation;
+            message.Animations = Animations.ToArray();
             message.Wait = Wait;
             message.MessageType = MessageTypeEnum.Success;
             EmitMessage(message);
@@ -119,6 +122,7 @@ namespace Havir.Api.Speech
         }
     }
 
+    [Serializable]
     public class Answer
     {
         public string TargetId { get; set; }

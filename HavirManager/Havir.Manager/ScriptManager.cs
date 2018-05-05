@@ -36,7 +36,7 @@ namespace Havir.Manager
             ///
             using (var dataAccess = new QuestionDataAccess())
             {
-                _graph = dataAccess.GetAll();
+                _graph = dataAccess.GetCurrentGraph();
                 //for(int i =0; i<_graph.Count; i++)
                 foreach (var node in _graph)
                 {

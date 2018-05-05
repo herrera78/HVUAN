@@ -57,17 +57,17 @@ public class RecognizerManager : MonoBehaviour
             _GenerateSpeech(nextItem.Description);
         else
             _Speech(nextItem.Audio);
-        if (string.IsNullOrWhiteSpace(nextItem.Animation))
+        if (nextItem.Animations.Length == 0)
             _GenerateAnimation(nextItem.Description);
         else
-            _Animation(nextItem.Animation);
+            _Animation(nextItem.Animations);
         currentAgentStatus.recognizerPaused = nextItem.Wait;
     }
 
     private void _GenerateAnimation(string description)
     {
         ///TODO: Generar animaciónes automáticas
-        _Animation("Gusto");
+        //_Animation("Gusto");
     }
 
     private void _GenerateSpeech(string description)
@@ -140,13 +140,13 @@ public class RecognizerManager : MonoBehaviour
 
     }
 
-    private void _Animation(string animation)
+    private void _Animation(Havir.Sockets.Entities.Animation[] animations)
     {
-        if (string.IsNullOrWhiteSpace(animation)) return;
-        var animate = new Animate();
-        animate.animation = animation;
-        am = gameObject.GetComponent<AnimationManager>();
-        am.PlayAnimation(animate);
+        if (animations.Length == 0) return;
+        //var animate = new Animate();
+        //animate.animation = animation;
+        //am = gameObject.GetComponent<AnimationManager>();
+        //am.PlayAnimation(animate);
     }
 
 }

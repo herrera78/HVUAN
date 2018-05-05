@@ -84,3 +84,19 @@ D:\GITHUB\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsReco
 D:\GITHUB\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.csproj.CopyComplete
 D:\GITHUB\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.dll
 D:\GITHUB\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Graph\BasicDialog.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Graph\PredefinedAnswers.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Graph\dialogo ejemplo.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Graph\lexico.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.WindowsRecognizer.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.WindowsRecognizer.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.Api.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.DataAccess.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.Sockets.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Newtonsoft.Json.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.Api.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.DataAccess.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.Sockets.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.csprojResolveAssemblyReference.cache
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.pdb

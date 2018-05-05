@@ -37,3 +37,21 @@ D:\GITHUB\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.csproj.CoreCo
 D:\GITHUB\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.csproj.CopyComplete
 D:\GITHUB\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.dll
 D:\GITHUB\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Graph\BasicDialog.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Graph\PredefinedAnswers.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Graph\dialogo ejemplo.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Graph\lexico.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Manager.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Manager.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Api.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.DataAccess.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Sockets.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.WindowsRecognizer.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Newtonsoft.Json.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Api.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.DataAccess.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Sockets.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.WindowsRecognizer.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.csprojResolveAssemblyReference.cache
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.pdb

@@ -22,13 +22,13 @@
   <key for="edge" id="d18" yfiles.type="edgegraphics"/>
   <graph edgedefault="directed" id="G">
     <node id="n0">
-      <data key="d3"><![CDATA[nHola]]></data>
+      <data key="d3"><![CDATA[inicio]]></data>
       <data key="d4"><![CDATA[decano]]></data>
       <data key="d5"><![CDATA[aHola]]></data>
-      <data key="d6"><![CDATA[Hola]]></data>
+      <data key="d6"/>
       <data key="d7"><![CDATA[hola]]></data>
       <data key="d8"><![CDATA[Hola!!! Bienvenido, mi nombre es UAN Antonio y soy un humano virtual creado en la facultad de Ingenieria de Sistemas de la Universidad Antonio Nariño. Con quien tengo el gusto?]]></data>
-      <data key="d9"><![CDATA[false]]></data>
+      <data key="d9"><![CDATA[true]]></data>
       <data key="d12">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="86.75" y="0.0"/>
@@ -75,7 +75,7 @@
       <data key="d3"><![CDATA[nBien]]></data>
       <data key="d4"><![CDATA[decano]]></data>
       <data key="d5"><![CDATA[aBien]]></data>
-      <data key="d6"><![CDATA[Bien]]></data>
+      <data key="d6"/>
       <data key="d7"/>
       <data key="d8"><![CDATA[Muy bien. Y sabes cuantos años tiene de fundada?]]></data>
       <data key="d9"><![CDATA[true]]></data>
@@ -176,7 +176,7 @@
       <data key="d4"><![CDATA[decano]]></data>
       <data key="d5"><![CDATA[aSur]]></data>
       <data key="d6"><![CDATA[Sur]]></data>
-      <data key="d7"><![CDATA[sur]]></data>
+      <data key="d7"/>
       <data key="d8"><![CDATA[En la sede sur funcionan nuestros programas de Ingenieria, Educacion y Psicologia]]></data>
       <data key="d9"><![CDATA[true]]></data>
       <data key="d12">
@@ -201,7 +201,7 @@
       <data key="d4"><![CDATA[decano]]></data>
       <data key="d5"><![CDATA[aCircunvalar]]></data>
       <data key="d6"><![CDATA[Circunvalar]]></data>
-      <data key="d7"><![CDATA[circunvalar]]></data>
+      <data key="d7"/>
       <data key="d8"><![CDATA[En la sede circunvalar funcionan nuestros programas de Arquitectura, Artes Plasticas, Bioquimica, Diseño, Musica  y  Ciencias de la Salud]]></data>
       <data key="d9"><![CDATA[true]]></data>
       <data key="d12">
@@ -226,7 +226,7 @@
       <data key="d4"><![CDATA[decano]]></data>
       <data key="d5"><![CDATA[aIberica]]></data>
       <data key="d6"><![CDATA[Iberica]]></data>
-      <data key="d7"><![CDATA[iberica]]></data>
+      <data key="d7"/>
       <data key="d8"><![CDATA[En la sede Iberica  funcionan nuestros programas de Tecnologia y Licenciatura en Artes]]></data>
       <data key="d9"><![CDATA[true]]></data>
       <data key="d12">
@@ -251,7 +251,7 @@
       <data key="d4"><![CDATA[decano]]></data>
       <data key="d5"><![CDATA[aFederman]]></data>
       <data key="d6"><![CDATA[Federman]]></data>
-      <data key="d7"><![CDATA[federman]]></data>
+      <data key="d7"/>
       <data key="d8"><![CDATA[En la sede Federman funcionan nuestros programas de Administracion, Comercio, Contaduria, Derecho, Economia, Hoteleria y Terapias Psicosociales]]></data>
       <data key="d9"><![CDATA[true]]></data>
       <data key="d12">
@@ -276,7 +276,7 @@
       <data key="d4"><![CDATA[decano]]></data>
       <data key="d5"><![CDATA[aUsme]]></data>
       <data key="d6"><![CDATA[Usme]]></data>
-      <data key="d7"><![CDATA[usme]]></data>
+      <data key="d7"/>
       <data key="d8"><![CDATA[En la sede Usme funciona nuestro Parque Eco-tecnologico]]></data>
       <data key="d9"><![CDATA[true]]></data>
       <data key="d12">
@@ -501,7 +501,7 @@
       <data key="d4"><![CDATA[decano]]></data>
       <data key="d5"><![CDATA[aAgrado]]></data>
       <data key="d6"><![CDATA[Agrado]]></data>
-      <data key="d7"><![CDATA[quiero terminar]]></data>
+      <data key="d7"/>
       <data key="d8"><![CDATA[Pues, espero que mi presentacion haya sido de tu agrado.]]></data>
       <data key="d9"><![CDATA[true]]></data>
       <data key="d12">
@@ -573,7 +573,7 @@
     </node>
     <edge id="e0" source="n0" target="n1">
       <data key="d14"/>
-      <data key="d15"/>
+      <data key="d15"><![CDATA[*]]></data>
       <data key="d18">
         <y:PolyLineEdge>
           <y:Path sx="7.5" sy="15.0" tx="0.0" ty="-15.0">
@@ -618,7 +618,7 @@
     </edge>
     <edge id="e3" source="n2" target="n4">
       <data key="d14"/>
-      <data key="d15"/>
+      <data key="d15"><![CDATA[*]]></data>
       <data key="d18">
         <y:PolyLineEdge>
           <y:Path sx="7.5" sy="15.0" tx="10.0" ty="-15.0">
@@ -634,8 +634,8 @@
       </data>
     </edge>
     <edge id="e4" source="n2" target="n3">
-      <data key="d14"><![CDATA[cuarenta, 40]]></data>
-      <data key="d15"/>
+      <data key="d14"/>
+      <data key="d15"><![CDATA[cuarenta, 40]]></data>
       <data key="d18">
         <y:PolyLineEdge>
           <y:Path sx="-7.5" sy="15.0" tx="0.0" ty="-15.0"/>
@@ -831,14 +831,15 @@
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e18" source="n11" target="n12">
-      <data key="d14"/>
+    <edge id="e18" source="n11" target="n5">
+      <data key="d14"><![CDATA[si]]></data>
       <data key="d15"/>
       <data key="d18">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="15.0" tx="12.5" ty="-15.0">
-            <y:Point x="344.5" y="475.5"/>
-            <y:Point x="209.0" y="475.5"/>
+          <y:Path sx="-15.0" sy="0.0" tx="15.0" ty="0.0">
+            <y:Point x="312.7866043613708" y="320.0"/>
+            <y:Point x="303.08307372793354" y="320.0"/>
+            <y:Point x="256.5700934579439" y="320.0"/>
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -848,7 +849,7 @@
     </edge>
     <edge id="e19" source="n12" target="n13">
       <data key="d14"/>
-      <data key="d15"><![CDATA[bien, exelente, genial]]></data>
+      <data key="d15"><![CDATA[*]]></data>
       <data key="d18">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="15.0" tx="0.0" ty="-15.0">
@@ -863,7 +864,7 @@
     </edge>
     <edge id="e20" source="n13" target="n14">
       <data key="d14"/>
-      <data key="d15"/>
+      <data key="d15"><![CDATA[*]]></data>
       <data key="d18">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="15.0" tx="0.0" ty="-15.0">
@@ -1018,7 +1019,7 @@
     </edge>
     <edge id="e31" source="n21" target="n0">
       <data key="d14"/>
-      <data key="d15"/>
+      <data key="d15"><![CDATA[adios]]></data>
       <data key="d18">
         <y:PolyLineEdge>
           <y:Path sx="-7.5" sy="-15.0" tx="-7.5" ty="15.0">

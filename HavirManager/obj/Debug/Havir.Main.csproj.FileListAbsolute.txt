@@ -16,3 +16,17 @@ D:\GITHUB\HVUAN\HavirManager\obj\Debug\Havir.Main.csproj.CoreCompileInputs.cache
 D:\GITHUB\HVUAN\HavirManager\obj\Debug\Havir.Main.csproj.CopyComplete
 D:\GITHUB\HVUAN\HavirManager\obj\Debug\Havir.Main.exe
 D:\GITHUB\HVUAN\HavirManager\obj\Debug\Havir.Main.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VAIF\Havir\Graph\BasicDialog.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VAIF\Havir\Graph\PredefinedAnswers.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VAIF\Havir\Graph\dialogo ejemplo.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VAIF\Havir\Graph\lexico.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VAIF\Havir\Havir.Main.exe.config
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VAIF\Havir\Havir.Main.exe
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VAIF\Havir\Havir.Main.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Havir.Main.exe.config
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Havir.Main.exe
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Havir.Main.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\obj\Debug\Havir.Main.csprojResolveAssemblyReference.cache
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\obj\Debug\Havir.Main.csproj.Havir.Main.exe.config
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\obj\Debug\Havir.Main.exe
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\obj\Debug\Havir.Main.pdb

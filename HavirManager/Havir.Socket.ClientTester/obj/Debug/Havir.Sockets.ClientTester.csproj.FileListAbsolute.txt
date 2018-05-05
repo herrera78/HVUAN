@@ -58,3 +58,12 @@ D:\GITHUB\HVUAN\HavirManager\Havir.Socket.ClientTester\obj\Debug\Havir.Sockets.C
 D:\GITHUB\HVUAN\HavirManager\Havir.Socket.ClientTester\obj\Debug\Havir.Sockets.ClientTester.csproj.CopyComplete
 D:\GITHUB\HVUAN\HavirManager\Havir.Socket.ClientTester\obj\Debug\Havir.Socket.ClientTester.exe
 D:\GITHUB\HVUAN\HavirManager\Havir.Socket.ClientTester\obj\Debug\Havir.Socket.ClientTester.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Socket.ClientTester\bin\Debug\Havir.Socket.ClientTester.exe.config
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Socket.ClientTester\bin\Debug\Havir.Socket.ClientTester.exe
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Socket.ClientTester\bin\Debug\Havir.Socket.ClientTester.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Socket.ClientTester\bin\Debug\Havir.Sockets.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Socket.ClientTester\bin\Debug\Newtonsoft.Json.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Socket.ClientTester\bin\Debug\Havir.Sockets.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Socket.ClientTester\obj\Debug\Havir.Sockets.ClientTester.csprojResolveAssemblyReference.cache
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Socket.ClientTester\obj\Debug\Havir.Socket.ClientTester.exe
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Socket.ClientTester\obj\Debug\Havir.Socket.ClientTester.pdb

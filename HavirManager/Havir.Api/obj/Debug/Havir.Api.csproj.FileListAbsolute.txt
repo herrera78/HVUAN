@@ -58,3 +58,11 @@ D:\GITHUB\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.csproj.CoreCompileInp
 D:\GITHUB\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.csproj.CopyComplete
 D:\GITHUB\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.dll
 D:\GITHUB\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Api.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Api.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Sockets.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Newtonsoft.Json.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Sockets.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.csprojResolveAssemblyReference.cache
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.dll
+D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.pdb

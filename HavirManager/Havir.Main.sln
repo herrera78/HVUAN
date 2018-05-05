@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Havir.Main", "Havir.Main.csproj", "{AD2C09D5-0159-4453-AF7B-07342BF33946}"
 EndProject
@@ -23,6 +23,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExternalFiles", "ExternalFi
 	ProjectSection(SolutionItems) = preProject
 		ExternalFiles\BasicDialog.graphml = ExternalFiles\BasicDialog.graphml
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Havir.GraphProcessor", "Havir.GraphProcessor\Havir.GraphProcessor.csproj", "{61225D6A-72AC-4F7D-BB70-F8118CE70622}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -62,6 +64,10 @@ Global
 		{7609BB3F-5835-454E-A69A-2F96A6FA5704}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7609BB3F-5835-454E-A69A-2F96A6FA5704}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7609BB3F-5835-454E-A69A-2F96A6FA5704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61225D6A-72AC-4F7D-BB70-F8118CE70622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61225D6A-72AC-4F7D-BB70-F8118CE70622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61225D6A-72AC-4F7D-BB70-F8118CE70622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61225D6A-72AC-4F7D-BB70-F8118CE70622}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
