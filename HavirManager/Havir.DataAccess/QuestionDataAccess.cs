@@ -33,7 +33,7 @@ namespace Havir.DataAccess
         {
         }
 
-        public List<Question> GetCurrentGraph(string graphPath = @"D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Graph\data.hv")
+        public List<Question> GetCurrentGraph(string graphPath = "Graph/data.hv")
         {
             IFormatter formatter = new BinaryFormatter();
             using (var stream = new FileStream(graphPath, FileMode.Open, FileAccess.Read, FileShare.None))

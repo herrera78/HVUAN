@@ -143,10 +143,18 @@ public class RecognizerManager : MonoBehaviour
     private void _Animation(Havir.Sockets.Entities.Animation[] animations)
     {
         if (animations.Length == 0) return;
-        //var animate = new Animate();
-        //animate.animation = animation;
-        //am = gameObject.GetComponent<AnimationManager>();
-        //am.PlayAnimation(animate);
+        am = gameObject.GetComponent<AnimationManager>();
+
+        foreach (Havir.Sockets.Entities.Animation a in animations)
+        {
+            UnityEngine.Debug.Log("animation:" + a.AnimationName.ToString());
+            UnityEngine.Debug.Log("animation:" + a.StartTime);
+            var animate = new Animate();
+            animate.animation = a.AnimationName;
+            am.PlayAnimation(animate);
+
+        }
+
     }
 
 }

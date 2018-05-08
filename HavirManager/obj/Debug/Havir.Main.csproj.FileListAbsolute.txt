@@ -23,6 +23,10 @@ D:\_Programas_vht\_hvs\GitHub\HVUAN\VAIF\Havir\Graph\lexico.xml
 D:\_Programas_vht\_hvs\GitHub\HVUAN\VAIF\Havir\Havir.Main.exe.config
 D:\_Programas_vht\_hvs\GitHub\HVUAN\VAIF\Havir\Havir.Main.exe
 D:\_Programas_vht\_hvs\GitHub\HVUAN\VAIF\Havir\Havir.Main.pdb
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Graph\BasicDialog.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Graph\PredefinedAnswers.xml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Graph\dialogo ejemplo.graphml
+D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Graph\lexico.xml
 D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Havir.Main.exe.config
 D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Havir.Main.exe
 D:\_Programas_vht\_hvs\GitHub\HVUAN\VRAIN-master\Havir\Havir.Main.pdb
