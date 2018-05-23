@@ -64,16 +64,43 @@ public class RecognizerManager : MonoBehaviour
         currentAgentStatus.recognizerPaused = nextItem.Wait;
     }
 
-    private void _GenerateAnimation(string description)
+    private void _Speech(string audio)
     {
-        ///TODO: Generar animaciónes automáticas
-        //_Animation("Gusto");
+        if (string.IsNullOrWhiteSpace(audio)) return;
+        var dialog = new Dialog();
+        dialog.agent = gameObject;
+        dialog.audioFileName = audio;
+        dm = gameObject.GetComponent<DialogManager>();
+        dm.Speak(dialog);
+
     }
 
     private void _GenerateSpeech(string description)
     {
         ///TODO: Generar audio automático
         _Speech("aGusto");
+    }
+
+    private void _Animation(Havir.Sockets.Entities.Animation[] animations)
+    {
+        if (animations.Length == 0) return;
+        am = gameObject.GetComponent<AnimationManager>();
+
+        foreach (Havir.Sockets.Entities.Animation a in animations)
+        {
+            UnityEngine.Debug.Log("ANIMATION:" + a.AnimationName.ToString());
+            UnityEngine.Debug.Log("ANIMATION:" + a.StartTime);
+            var animate = new Animate();
+            animate.animation = a.AnimationName;
+            am.PlayAnimation(animate);
+
+        }
+
+    }
+    private void _GenerateAnimation(string description)
+    {
+        ///TODO: Generar animaciónes automáticas
+        //_Animation("Gusto");
     }
 
     void RunGame()
@@ -129,33 +156,6 @@ public class RecognizerManager : MonoBehaviour
         currentAgentStatus.isSpeaking = false;
     }
 
-    private void _Speech(string audio)
-    {
-        if (string.IsNullOrWhiteSpace(audio)) return;
-        var dialog = new Dialog();
-        dialog.agent = gameObject;
-        dialog.audioFileName = audio;
-        dm = gameObject.GetComponent<DialogManager>();
-        dm.Speak(dialog);
-
-    }
-
-    private void _Animation(Havir.Sockets.Entities.Animation[] animations)
-    {
-        if (animations.Length == 0) return;
-        am = gameObject.GetComponent<AnimationManager>();
-
-        foreach (Havir.Sockets.Entities.Animation a in animations)
-        {
-            UnityEngine.Debug.Log("animation:" + a.AnimationName.ToString());
-            UnityEngine.Debug.Log("animation:" + a.StartTime);
-            var animate = new Animate();
-            animate.animation = a.AnimationName;
-            am.PlayAnimation(animate);
-
-        }
-
-    }
 
 }
 

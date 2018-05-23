@@ -26,7 +26,6 @@ public class AnimationManager : MonoBehaviour
             }
         }
     }
-
     
     public void PlayAnimation(Animate anim)
     {
@@ -66,6 +65,8 @@ public class AnimationManager : MonoBehaviour
         {
             Debug.Log("Playing animation: " + animate.animation);
             int index = findAnimation(animate.animation);
+            Debug.Log("Found animation:" + animate.animation + " at index:" + index);
+
             if (looping)
             {
                 Debug.Log(index);
