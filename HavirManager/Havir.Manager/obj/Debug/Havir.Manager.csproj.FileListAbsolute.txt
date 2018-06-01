@@ -31,7 +31,6 @@ D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Api.pdb
 D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.DataAccess.pdb
 D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.Sockets.pdb
 D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.WindowsRecognizer.pdb
-D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Newtonsoft.Json.xml
 D:\GITHUB\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.csprojResolveAssemblyReference.cache
 D:\GITHUB\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.csproj.CoreCompileInputs.cache
 D:\GITHUB\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.csproj.CopyComplete
@@ -55,3 +54,4 @@ D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\bin\Debug\Havir.W
 D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.csprojResolveAssemblyReference.cache
 D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.dll
 D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.Manager\obj\Debug\Havir.Manager.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.Manager\bin\Debug\Graph\lexico.xml

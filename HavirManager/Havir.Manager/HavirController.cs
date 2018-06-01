@@ -37,6 +37,7 @@ namespace Havir.Manager
 
         }
 
+        //Create an access to this controller to toggle the booleans
         private void _InitSpeechManager()
         {
             _speechManager = new SpeechRegonizerManager();

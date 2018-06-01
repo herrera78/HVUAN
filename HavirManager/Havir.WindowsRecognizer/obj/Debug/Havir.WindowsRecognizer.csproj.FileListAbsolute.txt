@@ -78,7 +78,6 @@ D:\GITHUB\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Newtonsoft.Json.d
 D:\GITHUB\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.Api.pdb
 D:\GITHUB\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.DataAccess.pdb
 D:\GITHUB\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Havir.Sockets.pdb
-D:\GITHUB\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Newtonsoft.Json.xml
 D:\GITHUB\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.csprojResolveAssemblyReference.cache
 D:\GITHUB\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.csproj.CoreCompileInputs.cache
 D:\GITHUB\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.csproj.CopyComplete
@@ -100,3 +99,4 @@ D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Deb
 D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.csprojResolveAssemblyReference.cache
 D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.dll
 D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.WindowsRecognizer\obj\Debug\Havir.WindowsRecognizer.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.WindowsRecognizer\bin\Debug\Graph\lexico.xml

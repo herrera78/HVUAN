@@ -52,7 +52,6 @@ D:\GITHUB\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Api.pdb
 D:\GITHUB\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Sockets.dll
 D:\GITHUB\HVUAN\HavirManager\Havir.Api\bin\Debug\Newtonsoft.Json.dll
 D:\GITHUB\HVUAN\HavirManager\Havir.Api\bin\Debug\Havir.Sockets.pdb
-D:\GITHUB\HVUAN\HavirManager\Havir.Api\bin\Debug\Newtonsoft.Json.xml
 D:\GITHUB\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.csprojResolveAssemblyReference.cache
 D:\GITHUB\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.csproj.CoreCompileInputs.cache
 D:\GITHUB\HVUAN\HavirManager\Havir.Api\obj\Debug\Havir.Api.csproj.CopyComplete

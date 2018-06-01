@@ -87,3 +87,4 @@ D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Newt
 D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.csprojResolveAssemblyReference.cache
 D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.dll
 D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\Havir.DataAccess\obj\Debug\Havir.DataAccess.pdb
+D:\GITHUB\HVUAN\HavirManager\Havir.DataAccess\bin\Debug\Graph\lexico.xml

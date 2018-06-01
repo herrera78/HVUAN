@@ -68,7 +68,7 @@ namespace Havir.Api.Speech
         void PauseKeywordRecognition();
 
         Guid AddWildcardGrammar(string semmanticKey, string[] keywords);
-
+        // Consider renaming it? What is this doing?
     }
 
     public class KeywordRecognizedArgs
@@ -83,6 +83,7 @@ namespace Havir.Api.Speech
         }
     }
 
+    // Is this dictation? Just run dictation in parse for the keyword.
     public class WilcardRecognizedArgs : KeywordRecognizedArgs
     {
         public string KeyWord { get; set; }

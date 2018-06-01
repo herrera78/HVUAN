@@ -34,3 +34,11 @@ D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\obj\Debug\Havir.Main.csprojReso
 D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\obj\Debug\Havir.Main.csproj.Havir.Main.exe.config
 D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\obj\Debug\Havir.Main.exe
 D:\_Programas_vht\_hvs\GitHub\HVUAN\HavirManager\obj\Debug\Havir.Main.pdb
+D:\GITHUB\HVUAN\VRAIN-master\Havir\Graph\BasicDialog.graphml
+D:\GITHUB\HVUAN\VRAIN-master\Havir\Graph\PredefinedAnswers.xml
+D:\GITHUB\HVUAN\VRAIN-master\Havir\Graph\dialogo ejemplo.graphml
+D:\GITHUB\HVUAN\VRAIN-master\Havir\Graph\lexico.xml
+D:\GITHUB\HVUAN\VRAIN-master\Havir\Havir.Main.exe.config
+D:\GITHUB\HVUAN\VRAIN-master\Havir\Havir.Main.exe
+D:\GITHUB\HVUAN\VRAIN-master\Havir\Havir.Main.pdb
+D:\GITHUB\HVUAN\HavirManager\obj\Debug\Havir.Main.exe.config

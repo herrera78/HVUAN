@@ -41,7 +41,7 @@ namespace Havir.Manager
         public void InitRecognizer(bool dictation, bool keywordRecognation)
         {
             _keywordRecognation = keywordRecognation;
-            _dictation = keywordRecognation;
+            _dictation = keywordRecognation; //Typo? Dictation?
             _scriptManager.OnEmitMessage += EmitQuestionMessage; 
             _scriptManager.Init();
 
