@@ -276,7 +276,7 @@
       <data key="d4"><![CDATA[decano]]></data>
       <data key="d5"><![CDATA[aUsme]]></data>
       <data key="d6"><![CDATA[Usme]]></data>
-      <data key="d7"/>
+      <data key="d7"><![CDATA[Usme]]></data>
       <data key="d8"><![CDATA[En la sede Usme funciona nuestro Parque Eco-tecnologico]]></data>
       <data key="d9"><![CDATA[true]]></data>
       <data key="d12">
@@ -615,7 +615,7 @@
     </edge>
     <edge id="e3" source="n2" target="n4">
       <data key="d14"/>
-      <data key="d15"><![CDATA[*]]></data>
+      <data key="d15"><![CDATA[no]]></data>
       <data key="d18">
         <y:PolyLineEdge>
           <y:Path sx="-7.5" sy="15.0" tx="-10.0" ty="-15.0">
@@ -743,7 +743,7 @@
     </edge>
     <edge id="e12" source="n5" target="n10">
       <data key="d14"><![CDATA[usme]]></data>
-      <data key="d15"/>
+      <data key="d15"><![CDATA[Usme]]></data>
       <data key="d18">
         <y:PolyLineEdge>
           <y:Path sx="12.0" sy="15.0" tx="0.0" ty="-15.0">

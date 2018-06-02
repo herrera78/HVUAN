@@ -56,18 +56,15 @@ namespace Havir.DataAccess
 
         public Words GetKeyWords()
         {
-            XmlSerializer serial =
-                new XmlSerializer(typeof(Words));
+            using (StreamReader reader = new StreamReader("Graph/lexico.xml", Encoding.UTF8, true))
+            {
+                XmlSerializer serializer = new XmlSerializer(typeof(Words));
 
-            FileStream transmision =
-                new FileStream("Graph/lexico.xml", FileMode.Open);
-
-            // Deserialize method
-
-            var currentWords = (Words)serial.Deserialize(transmision);
-            return currentWords;
+                // Deserialize method
+                var currentWords = (Words)serializer.Deserialize(reader);
+                return currentWords;
+            }
         }
-
 
     }
 }

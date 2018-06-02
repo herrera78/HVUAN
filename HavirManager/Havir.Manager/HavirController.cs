@@ -13,7 +13,7 @@ namespace Havir.Manager
 {
     public class HavirController
     {
-        private SpeechRegonizerManager _speechManager; 
+        private SpeechRegonizerManager _speechManager;
         private SocketServer<UnityActionMessage, ServerActionMessage> _server;
 
         public void Start()
@@ -32,9 +32,11 @@ namespace Havir.Manager
 
         private void OnRecivedMessageHandler(ServerActionMessage message)
         {
+            Console.WriteLine($"Message fom client. Pause: {message.Pause} Resume: {message.Resume}");
             if (message.Resume)
                 _speechManager.Resume();
-
+            if (message.Pause)
+                _speechManager.Pause();
         }
 
         //Create an access to this controller to toggle the booleans
@@ -53,4 +55,3 @@ namespace Havir.Manager
         }
     }
 }
- 

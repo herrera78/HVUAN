@@ -3,7 +3,6 @@
 public class AgentStatusManager : MonoBehaviour
 {
     public bool isSpeaking = false;
-    public bool recognizerPaused = false;
     public bool isListening = false;
     public bool isWaiting = false;
     public bool isInRange = false;

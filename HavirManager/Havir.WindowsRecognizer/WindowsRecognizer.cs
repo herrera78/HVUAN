@@ -127,7 +127,7 @@ namespace Havir.WindowsRecognizer
             var id = Guid.NewGuid();
             grammar.Name = id.ToString();
             grammar.Enabled = false;
-            grammar.Priority = 5;
+            grammar.Priority = 120;
             _recognizer.LoadGrammar(grammar);
             semantics.Add(id, grammar);
             return id;
@@ -213,6 +213,7 @@ namespace Havir.WindowsRecognizer
         public void PauseKeywordRecognition()
         {
             _recognizer.RecognizeAsyncStop();
+            Console.WriteLine("Recognizer manager paused.");
         }
 
     }

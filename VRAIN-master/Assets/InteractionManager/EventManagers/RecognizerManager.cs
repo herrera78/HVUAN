@@ -19,13 +19,16 @@ public class RecognizerManager : MonoBehaviour
     private AnimationManager am;
     private Queue<UnityActionMessage> queue;
     private AgentStatusManager currentAgentStatus;
+    public GameObject recManagerObject;
+    public bool recognizerPaused = false;
 
     void Start()
     {
         dm = new DialogManager();
         am = new AnimationManager();
         queue = new Queue<UnityActionMessage>();
-        currentAgentStatus = gameObject.GetComponent<AgentStatusManager>();
+        recManagerObject = GameObject.FindGameObjectWithTag("Agent");
+        currentAgentStatus = recManagerObject.GetComponent<AgentStatusManager>();
         RunGame();
     }
 
@@ -42,13 +45,21 @@ public class RecognizerManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (currentAgentStatus != null && currentAgentStatus.isSpeaking == true) return;
-        if (currentAgentStatus.recognizerPaused)
+        ///Push to talk
+        if (Input.GetKeyDown(KeyCode.Space))
         {
-            var message = new ServerActionMessage();
-            message.Resume = true;
-            client.SendMessage(message);
-            currentAgentStatus.recognizerPaused = false;
+            ResumeRecognizer();
+        }
+        else if (Input.GetKeyUp(KeyCode.Space))
+        {
+            PauseRecognizer();
+        }
+        ///
+        if (currentAgentStatus != null && currentAgentStatus.isSpeaking == true) return;
+        if (recognizerPaused)
+        {
+            ResumeRecognizer();
+            recognizerPaused = false;
         }
         if (queue.Count == 0) return;
         var nextItem = queue.Dequeue();
@@ -61,16 +72,16 @@ public class RecognizerManager : MonoBehaviour
             _GenerateAnimation(nextItem.Description);
         else
             _Animation(nextItem.Animations);
-        currentAgentStatus.recognizerPaused = nextItem.Wait;
+        recognizerPaused = nextItem.Wait;
     }
 
     private void _Speech(string audio)
     {
         if (string.IsNullOrWhiteSpace(audio)) return;
         var dialog = new Dialog();
-        dialog.agent = gameObject;
+        dialog.agent = recManagerObject;
         dialog.audioFileName = audio;
-        dm = gameObject.GetComponent<DialogManager>();
+        dm = recManagerObject.GetComponent<DialogManager>();
         dm.Speak(dialog);
 
     }
@@ -84,7 +95,7 @@ public class RecognizerManager : MonoBehaviour
     private void _Animation(Havir.Sockets.Entities.Animation[] animations)
     {
         if (animations.Length == 0) return;
-        am = gameObject.GetComponent<AnimationManager>();
+        am = recManagerObject.GetComponent<AnimationManager>();
 
         foreach (Havir.Sockets.Entities.Animation a in animations)
         {
@@ -107,6 +118,7 @@ public class RecognizerManager : MonoBehaviour
     {
         _StartServer();
         _InitClient();
+        PauseRecognizer();
     }
 
     private void _StartServer()
@@ -156,6 +168,22 @@ public class RecognizerManager : MonoBehaviour
         currentAgentStatus.isSpeaking = false;
     }
 
+    public void PauseRecognizer()
+    {
+        if (recognizerPaused)
+            return;
+        var message = new ServerActionMessage();
+        message.Pause = true;
+        client.SendMessage(message);
+    }
 
+    public void ResumeRecognizer()
+    {
+        if (recognizerPaused)
+            return;
+        var message = new ServerActionMessage();
+        message.Resume = true;
+        client.SendMessage(message);
+    }
 }
 

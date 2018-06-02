@@ -41,11 +41,11 @@ namespace Havir.Manager
         public void InitRecognizer(bool dictation, bool keywordRecognation)
         {
             _keywordRecognation = keywordRecognation;
-            _dictation = keywordRecognation; //Typo? Dictation?
+            _dictation = dictation; //Typo? Dictation?
             _scriptManager.OnEmitMessage += EmitQuestionMessage; 
             _scriptManager.Init();
 
-            Recognizer.AddWildcardGrammar("Pregunta", new string[] { "quiero saber", "Deseo saber de", "quiero saber de", "hábleme de " });
+            //Recognizer.AddWildcardGrammar("Pregunta", new string[] { "quiero saber", "Deseo saber de", "quiero saber de", "hábleme de " });
             Recognizer.OnWilcardRecognized += OnWilcardRecognizedHandler;
 
             Recognizer.InitRecognizer(dictation, keywordRecognation);

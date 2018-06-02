@@ -29,7 +29,6 @@ C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Ha
 C:\Users\Lucho\Documents\En ejecución\Proyectos\UAN\HVUAN\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.pdb
 D:\GITHUB\HVUAN\HavirManager\Havir.Sockets\bin\Debug\Havir.Sockets.dll
 D:\GITHUB\HVUAN\HavirManager\Havir.Sockets\bin\Debug\Havir.Sockets.pdb
-D:\GITHUB\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.csprojResolveAssemblyReference.cache
 D:\GITHUB\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.csproj.CoreCompileInputs.cache
 D:\GITHUB\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.csproj.CopyComplete
 D:\GITHUB\HVUAN\HavirManager\Havir.Sockets\obj\Debug\Havir.Sockets.dll
