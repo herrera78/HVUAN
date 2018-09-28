@@ -2,11 +2,11 @@
 	"name" : "Body Language",
 	
 	"layout" : [
-	    ["ou", "oh", "ih"],
-	    ["E", "aa", "RR"],
-	    ["nn", "SS", "CH"],
-	    ["kk", "DD", "TH"],
-	    ["FF", "PP", "sil"]
+	      ["PP","FF","TH"],
+	      ["DD","kk","CH"],
+	      ["SS","nn","RR"],
+	      ["aa","E","ih"],
+	      ["oh","ou","sil"]
 	],
 	
     "visemes" : {
